@@ -28,13 +28,13 @@ jobs:
     - name: Compile C++ project
       run: |
         #clang++ -o मुख्य_कार्यक्रम मुख्य_कार्यक्रम.cpp
-        clang++  म<0941>ख<094d>य_कार<094d>यक<094d>रम.cpp -o  म<0941>ख<094d>य_कार<094d>यक<094d>रम
+        clang++  main.cpp -o main
         #clang++ -o हिंदी हिंदी.cpp
 
     # Step 4: Run the compiled program
     - name: Run the C++ program
       run: |
-        ./म<0941>ख<094d>य_कार<094d>यक<094d>रम
+        ./main
         #./मुख्य_कार्यक्रम
 
     # Step 5: Optionally, add more steps for testing (if you have tests)
