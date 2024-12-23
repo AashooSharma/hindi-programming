@@ -4,8 +4,8 @@
 
 A C++ project that implements programming concepts using Hindi keywords and syntax. This project allows you to write C++ code using Hindi for keywords, functions, and other programming constructs. This can help non-English speakers understand programming concepts in their native language.
 
-![Logo](https://example.com/logo.png)  
-*Logo placeholder*
+![Logo](हिन्दी-कोड_logo.png)  
+
 
 ## Table of Contents
 
@@ -89,13 +89,20 @@ Here is an example of how you can use the Hindi library in your C++ programs.
 
 ## Screenshots
 
-Here’s a screenshot of the program in action:
+Here’s a screenshot of the program in Testing:
 
-![Screenshot](https://example.com/screenshot.png)
+### Testing in GitHub actions:
+
+![Screenshot](Tested-in-GitHubAction.jpg)
+
+### Testing in Termux Terminal:
+
+![Screenshot](Tested-in-Termux.jpg)
+
 
 ## References
 
-This project is inspired by a Python Hindi programming project I created back in June 2021. The core idea of replacing English programming keywords with Hindi was taken from that project, but this version is implemented in C++ to further explore the possibilities of non-English programming. You can check out the original Python version [here](https://www.youtube.com/example_video).
+This project is inspired by a Python Hindi programming project I created back in June 2021. The core idea of replacing English programming keywords with Hindi was taken from that project, but this version is implemented in C++ to further explore the possibilities of non-English programming. You can check out the original Python version My Project Demo Video [Click Here 🎦](https://youtu.be/x2MGH6CvTIc?si=3LwFmLGLl6b7bamv).
 
 ## Credits
 
@@ -113,7 +120,7 @@ For any issues or questions, please open an issue on GitHub or reach out via ema
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Locally Run
 
@@ -126,25 +133,40 @@ To run this project on your local machine, follow these steps:
 
 ### Steps:
 
-1. Clone the repository:
+1. Requirements install:
+   ```bash
+   sudo apt-get update
+   sudo apt-get install -y build-essential clang git
+   ```
+2. Clone the repository:
    ```bash
    git clone https://github.com/AashooSharma/hindi-programming.git
    ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    cd hindi-programming
    ```
 
-3. Compile the code using a C++ compiler:
+4. Compile the code using a C++ compiler:
    ```bash
    g++ मुख्य_कार्यक्रम.cpp -o मुख्य_कार्यक्रम
    ```
 
-4. Run the program:
+5. Run the program:
    ```bash
    ./मुख्य_कार्यक्रम
    ```
 
-5. Follow the on-screen prompts to input the values and see the output in Hindi.
+6. Follow the on-screen prompts to input the values and see the output in Hindi.
 
+
+### Example Output:
+
+```
+नाम बताओ: 
+उपयोगकर्ता है: आशू शर्मा
+कृपया पहली संख्या दर्ज करें (डिफ़ॉल्ट 5): 
+कृपया दूसरी संख्या दर्ज करें (डिफ़ॉल्ट 10): 
+दोनों संख्याओं का योग है: 15
+```
