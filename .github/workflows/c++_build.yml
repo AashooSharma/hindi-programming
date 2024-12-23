@@ -27,15 +27,15 @@ jobs:
     # Step 3: Compile the C++ project
     - name: Compile C++ project
       run: |
-        #clang++ -o मुख्य_कार्यक्रम मुख्य_कार्यक्रम.cpp
+        clang++ मुख्य_कार्यक्रम.cpp -o मुख्य_कार्यक्रम
         clang++  main.cpp -o main
-        #clang++ -o हिंदी हिंदी.cpp
+        #clang++ हिंदी.cpp -o हिंदी
 
     # Step 4: Run the compiled program
     - name: Run the C++ program
       run: |
         ./main
-        #./मुख्य_कार्यक्रम
+        ./मुख्य_कार्यक्रम
 
     # Step 5: Optionally, add more steps for testing (if you have tests)
     # You can run your test cases or add additional checks here
