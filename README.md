@@ -104,6 +104,8 @@ Here’s a screenshot of the program in Testing:
 
 This project is inspired by a Python Hindi programming project I created back in June 2021. The core idea of replacing English programming keywords with Hindi was taken from that project, but this version is implemented in C++ to further explore the possibilities of non-English programming. You can check out the original Python version My Project Demo Video [Click Here 🎦](https://youtu.be/x2MGH6CvTIc?si=3LwFmLGLl6b7bamv).
 
+[![Hindi Programming Project in Python Youtube Video](http://img.youtube.com/vi/x2MGH6CvTIc/0.jpg)](https://youtu.be/x2MGH6CvTIc?si=3LwFmLGLl6b7bamv "Hindi Programming Project in Python")
+
 ## Credits
 
 - **Aashoo Sharma** (Developer)  
