@@ -93,7 +93,7 @@ Here’s a screenshot of the program in Testing:
 
 ### Testing in GitHub actions:
 
-![Screenshot](Tested-in-GitHubAction.jpg)
+![Screenshot](Tested-in-GitHubAction2.jpg)
 
 ### Testing in Termux Terminal:
 
