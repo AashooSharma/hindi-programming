@@ -4,7 +4,34 @@
 
 A C++ project that implements programming concepts using Hindi keywords and syntax. This project allows you to write C++ code using Hindi for keywords, functions, and other programming constructs. This can help non-English speakers understand programming concepts in their native language.
 
-![Logo](हिन्दी-कोड_logo.png)  
+
+<p align="center">
+    <br><b>🚀 हिंदी में प्रोग्रामिंग 🚀</b><br>
+</p>
+<p align="center"><a href="https://github.com/AashooSharma/hindi-programming"><img src="./हिन्दी-कोड_logo.png"></a></p>
+
+
+<h4 align="center">
+    आपका स्वागत है <b>हिंदी में प्रोग्रामिंग</b> प्रोजेक्ट में, जो आपको प्रोग्रामिंग और कोडिंग हिंदी भाषा में सिखाने का एक अनोखा अनुभव प्रदान करता है।
+</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/AashooSharma/hindi-programming?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/AashooSharma/hindi-programming?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/AashooSharma/hindi-programming?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/AashooSharma/hindi-programming?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/AashooSharma/hindi-programming?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/AashooSharma/hindi-programming/commits/main"> 
+        <img src="https://img.shields.io/github/last-commit/AashooSharma/hindi-programming?color=blue&logo=github&logoColor=green&style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/github/contributors/AashooSharma/hindi-programming?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/AashooSharma/hindi-programming/issues"> 
+        <img src="https://img.shields.io/github/issues/AashooSharma/hindi-programming?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/AashooSharma/hindi-programming"> 
+        <img src="https://img.shields.io/github/repo-size/AashooSharma/hindi-programming?color=orange&logo=github&logoColor=green&style=for-the-badge" />
+    </a>
+</p>
 
 
 ## Table of Contents
@@ -93,7 +120,7 @@ Here’s a screenshot of the program in Testing:
 
 ### Testing in GitHub actions:
 
-![Screenshot](Tested-in-GitHub-Action.jpg)
+![Screenshot](Tested-in-GitHubAction.jpg)
 
 ### Testing in Termux Terminal:
 
