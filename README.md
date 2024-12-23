@@ -1,4 +1,4 @@
-# hindi-programming ( हिंदी प्रोग्रामिंग )
+# Hindi Programming ( हिंदी प्रोग्रामिंग )
 
 ---
 
